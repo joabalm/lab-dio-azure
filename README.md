@@ -181,10 +181,10 @@ Revise os gráficos que mostram o desempenho do modelo. O gráfico de **resíduo
 
 ~~~json
  {
-   "Results": [
-     444.27799000000000
-   ]
- }
+  "Results": [
+    356.9253888264152
+  ]
+}
 ~~~
 
 #### Pronto, você acabou de criar e treinar um modelo que prevê o número de aluguels de bicicletas esperados em um determinado dia, com base em características sazonais e meteorológicas.
